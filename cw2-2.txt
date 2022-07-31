@@ -1,0 +1,3 @@
+int height=162;
+     if (height>160)
+      System.out.println("you can enter the death train , enjoyy!");
