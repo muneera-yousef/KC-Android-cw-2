@@ -1,3 +1,14 @@
-int height=162;
-     if (height>160)
+
+public class Main
+{
+	public static void main(String[] args) {
+	
+	int height=162;
+     if (height>160){
       System.out.println("you can enter the death train , enjoyy!");
+     }else{
+         System.out.println("sorry youre tiny");
+     }
+	}
+}
+
